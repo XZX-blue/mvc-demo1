@@ -1,0 +1,6 @@
+import './app1.css'
+import './reset.css'
+import './app2.css'
+import './page.css'
+import './app1.js'
+import './app2.js'
